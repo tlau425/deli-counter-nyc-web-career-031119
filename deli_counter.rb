@@ -22,4 +22,6 @@ def now_serving(array)
     puts "There is nobody waiting to be served!"
   else
     puts "Now Serving #{array.index(0)}"
-    array.push
+    array.pop
+  end
+end
