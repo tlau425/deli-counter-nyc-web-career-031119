@@ -10,3 +10,7 @@ def line(array)
   puts "#{message}"
 end
 end
+
+def take_a_number(name)
+  
+  
