@@ -12,6 +12,7 @@ end
 end
 
 def take_a_number(array, name)
-  new_array = []
+  array.push(name)
+  
   
   
